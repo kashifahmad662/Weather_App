@@ -1,0 +1,6 @@
+io/flutter/plugins/GeneratedPluginRegistrant.java
+ io.flutter.plugins.GeneratedPluginRegistrant
+com/weatherAppApi/weather_app/MainActivity.java
+ com.weatherAppApi.weather_app.MainActivity
+com/weatherAppApi/weather_app/BuildConfig.java
+ com.weatherAppApi.weather_app.BuildConfig
